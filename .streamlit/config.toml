@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#2E7D32"
+baseRadius = "0.6rem"
+
+[theme.dark]
+primaryColor = "#388E3C"
+
+[client]
+# 오류가 나도 브라우저에는 서버 경로·트레이스백을 보여 주지 않는다 (콘솔에만 출력).
+showErrorDetails = "none"
